@@ -1,2 +1,29 @@
+name: BRP2
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - sympy
+  - bokeh
+  - librosa
+  - notebook==6.0.1
+  - jupyter_nbextensions_configurator
+  - jupyter_contrib_nbextensions
+  - widgetsnbextension
+  - rise
+  - ipywidgets
+  - pyaudio
+  - plotly=3.10.0
+  - nodejs
+  - ffmpeg
+  - pandas
+  - cudatoolkit
+  - pytorch
 
-  
+
